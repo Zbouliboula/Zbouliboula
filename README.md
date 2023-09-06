@@ -2,7 +2,8 @@
 
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0Lnw3P2LvoawLMKWKZh7JGHhnEBG70MKXvlmv1jw4KjNbcaYl_8doWKgMYLTLDAS4is&usqp=CAU)
 ## Moi : 
-   * j'aime [x]ggg
+   * j'aime manger et faire du sport
+     
 
 <!---
 Zbouliboula/Zbouliboula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
